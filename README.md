@@ -1,6 +1,6 @@
 # Geosmin and MIB monitoring research: selected methods
 
-This repository presents **selected analysis methods** from Sulav Dhungana's undergraduate research in the Department of Data Science at the University of Texas at Arlington. The research examined historical municipal laboratory records for geosmin and 2-methylisoborneol (MIB), two compounds associated with taste and odor concerns in drinking-water systems.
+This repository presents **selected analysis methods** from my undergraduate research in the Department of Data Science at the University of Texas at Arlington. The research examined historical municipal laboratory records for geosmin and 2-methylisoborneol (MIB), two compounds associated with taste and odor concerns in drinking-water systems.
 
 The project asked whether recorded sampling dates and available laboratory results could support transparent screening for elevated concentrations, especially the **first observed rise** after a lower result. Work included checking units and non-detects, separating unresolved measurements, building observed elevation episodes, and evaluating probability estimates in chronological order. A related analysis examined output-labelled measurements, sensory odor readings, and laboratory timing. These steps matter because a good average score can still hide missed first rises, and laboratory timing affects when information could become available.
 
